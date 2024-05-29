@@ -105,9 +105,7 @@ class _Home_PageState extends State<Home_Page> {
   }
 
   void _navigateToPage(int index, int sum) {
-    if (index == 1) {
-      print('قيمة sum هي: $sum');
-    }
+
     switch (index) {
       case 1:
         Get.to(PageWithContainers());
