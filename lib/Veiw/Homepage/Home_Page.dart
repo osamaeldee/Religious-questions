@@ -164,8 +164,8 @@ class NumberContainer extends StatelessWidget {
         alignment: Alignment.center,
         children: [
           Container(
-            width: 150, // تكبير عرض الحاوية
-            height: 150, // تكبير ارتفاع الحاوية
+            width: 150, 
+            height: 150,
             decoration: BoxDecoration(
               color: Colors.blue,
               borderRadius: BorderRadius.circular(10),
