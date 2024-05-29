@@ -181,7 +181,7 @@ class NumberContainer extends StatelessWidget {
             Icon(
               Icons.lock,
               color: Colors.red,
-              size: 30, // الحفاظ على حجم القفل كما هو
+              size: 30, 
             ),
         ],
       ),
