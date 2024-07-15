@@ -4,10 +4,10 @@ This is an educational application aimed at enhancing religious knowledge by pre
 
 ## Screenshots
 
-![Screenshot 1](images/screenshot1.jpg)
-![Screenshot 2](images/screenshot2.jpg)
-![Screenshot 3](images/screenshot3.jpg)
-![Screenshot 4](images/screenshot4.jpg)
+![Screenshot 1](https://lh3.googleusercontent.com/-8d2UDZUnKQ4v09ZR05Q2vuEp954-DY71FTvov7456GxMN4h9wKl2Nx6yS5wD11Cdsg)
+![Screenshot 2](https://lh3.googleusercontent.com/gbKjY6l_kQmBr7Bq6u68-XBO3irW52Z2-Ebe7FQMYXbdh2LBfRvv3vfeVcEEeUx0CA)
+![Screenshot 3](https://lh3.googleusercontent.com/8wU-4yHza4e9M5T7MpEsTUZKk6xNco1j0Bll4KSMoqzGB2TFR2jrQYQtNyjzKL3wgTU)
+![Screenshot 4](https://lh3.googleusercontent.com/VVap3MWiHTLdTp9z4hr3FGcZtuTA9ThvDeU7amIXubadDsMGfCWedcLefUbJ59wqssg)
 
 ## Description
 
